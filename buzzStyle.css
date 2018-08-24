@@ -1,3 +1,13 @@
 navbar li {
 	color:red;
 }
+
+.navbar-brand {
+
+	color:green;
+}
+
+h1 {
+
+	color: green;
+}
